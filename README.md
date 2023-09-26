@@ -1,4 +1,5 @@
 # dtMoney
+- Curso ignite ReactJs rocktSeat.
 - TECNOLOGIA UTILIZADA: React js. (TECHNOLOGY USED: React js.)
 - O projeto foi realizado com o objetivo de ensinar reactJs na prática. (The project was carried out with the aim of teaching reactJs in practice.)
 - O projeto NÃO É DE MINHA AUTORIA. (THE project IS NOT MY AUTHORITY.)
